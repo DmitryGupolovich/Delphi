@@ -35,10 +35,7 @@ object Form1: TForm1
     TabOrder = 0
     OnKeyDown = Memo1KeyDown
     OnKeyPress = Memo1KeyPress
-    OnMouseDown = Memo1MouseDown
     OnMouseUp = Memo1MouseUp
-    ExplicitLeft = 72
-    ExplicitTop = 8
-    ExplicitWidth = 321
+    ExplicitWidth = 425
   end
 end
